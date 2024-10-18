@@ -1,0 +1,7 @@
+--text: #000000;
+--background: #fEFAE0;
+--primary: #D4A373;
+--secondary: #FAEDCD;
+--accent: #CCD5AE;
+
+https://www.realtimecolors.com/?colors=000000-fEFAE0-D4A373-FAEDCD-CCD5AE&fonts=Inter-Inter
